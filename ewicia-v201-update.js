@@ -128,7 +128,7 @@
                 <span>Ed. Infantil 0-6 años</span>
                 <span>Informes únicos</span>
                 <span>Naturalidad real</span>
-                <span>19 CC.AA.</span>
+                <span>17 CC.AA. + Ceuta y Melilla</span>
             </div>
             <a href="https://drive.google.com/uc?export=download&id=1ixOdmSiufqCEOQ8NLdK85rAAvXWA9kmd" class="bar-cta">Actualizar gratis →</a>
         </div>
@@ -167,7 +167,7 @@
                 </div>
                 <div class="novedad-card ac-p">
                     <span class="novedad-icon">🗺️</span>
-                    <div class="novedad-title"><h3>Las 19 Comunidades</h3></div>
+                    <div class="novedad-title"><h3>Las 17 CC.AA. + Ceuta y Melilla</h3></div>
                     <p>Soporte completo para <strong>todos los territorios</strong> de España, respetando currículo y lengua de cada comunidad autónoma.</p>
                 </div>
                 <div class="novedad-card ac-t">
